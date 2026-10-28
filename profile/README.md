@@ -66,10 +66,7 @@ From Lisbon to the Algarve, and beyond, we work locally and internationally, ada
 
 ## 🧭 Our Approach
 
-```mermaid
-flowchart LR
-    A[📏 Precision] --> B[🧠 Intelligence] --> C[📉 Optimization] --> D[💎 Value]
-```
+<p align="center"><b>📏 Precision &nbsp;→&nbsp; 🧠 Intelligence &nbsp;→&nbsp; 📉 Optimization &nbsp;→&nbsp; 💎 Value</b></p>
 
 - **Precision** — Establishing a reliable, data-backed basis for cost assessment.
 - **Intelligence** — Transforming technical and financial data into strategic insight.
