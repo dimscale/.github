@@ -47,7 +47,7 @@ From Lisbon to the Algarve, and beyond, we work locally and internationally, ada
   <img src="https://img.shields.io/badge/Visual_Studio-Community-173e54?style=for-the-badge&labelColor=102d3f" alt="Visual Studio Community">
   <img src="https://img.shields.io/badge/🧠_Applied_AI-Cost_Intelligence-173e54?style=for-the-badge&labelColor=102d3f" alt="Applied AI">
 </p>
- <img src="https://img.shields.io/badge/C%23-.NET_8-173e54?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=102d3f" alt="C#">
+
 **Applied AI** — we use AI where it adds real value to cost management: reading and classifying project documents, automating quantity take-offs, comparing materials and suppliers, and turning historical cost data into faster, better-grounded estimates. Every result is reviewed by our cost specialists.
 
 ---
